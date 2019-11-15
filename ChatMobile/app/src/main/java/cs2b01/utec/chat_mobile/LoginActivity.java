@@ -14,6 +14,7 @@ import com.android.volley.toolbox.Volley;
 import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
+import android.content.Intent;
 public class LoginActivity extends AppCompatActivity {
 
     @Override
@@ -25,6 +26,13 @@ public class LoginActivity extends AppCompatActivity {
     public void showMessage(String message) {
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
     }
+
+    public void sendMessage() {
+        Intent intent = new Intent(this,ContactActivity.class);
+        startActivity(intent);
+    }
+
+
 
     public void onBtnLoginClicked(View view){
 
@@ -55,13 +63,15 @@ public class LoginActivity extends AppCompatActivity {
                     public void onResponse(JSONObject response) {
 
                         showMessage("Usuario autorizado");
+                        sendMessage();
                     }
                 },
                 new Response.ErrorListener() {
                     @Override
                     public void onErrorResponse(VolleyError error) {
 
-                        showMessage("Usuario invalido");
+                        showMessage("no autorizado");
+
                     }
                 }
         );
