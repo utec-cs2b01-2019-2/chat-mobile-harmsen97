@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jeronimo/Desktop/ChatMobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/032a201741818bfad7a12c9bf011cf7c/res/values-sv/values-sv.xml",
