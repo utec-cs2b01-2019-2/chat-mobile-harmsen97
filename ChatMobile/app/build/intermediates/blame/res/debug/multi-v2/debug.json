@@ -241,38 +241,6 @@
             ]
         },
         {
-            "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/95b2f7c24cdae2dfca82606eb678ebdf/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "101",
-                        "endOffsets": "152"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1810",
-                        "endColumns": "101",
-                        "endOffsets": "1907"
-                    }
-                },
-                {
-                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/032a201741818bfad7a12c9bf011cf7c/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
-                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
-                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat",
             "map": [
                 {
@@ -300,6 +268,38 @@
                         "startOffsets": "105,217,329,437,522,624,750,834,915,997,1104,1213,1312,1420,1524,1631,1790,1890",
                         "endColumns": "111,111,107,84,101,125,83,80,81,106,108,98,107,103,106,158,99,81",
                         "endOffsets": "212,324,432,517,619,745,829,910,992,1099,1208,1307,1415,1519,1626,1785,1885,1967"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/95b2f7c24cdae2dfca82606eb678ebdf/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1810",
+                        "endColumns": "101",
+                        "endOffsets": "1907"
+                    }
+                },
+                {
+                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/032a201741818bfad7a12c9bf011cf7c/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
                     }
                 }
             ]
@@ -785,38 +785,6 @@
             ]
         },
         {
-            "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/032a201741818bfad7a12c9bf011cf7c/res/values-iw/values-iw.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,308,416,500,600,714,792,870,951,1053,1157,1255,1358,1459,1559,1711,1807",
-                        "endColumns": "103,98,107,83,99,113,77,77,80,101,103,97,102,100,99,151,95,80",
-                        "endOffsets": "204,303,411,495,595,709,787,865,946,1048,1152,1250,1353,1454,1554,1706,1802,1883"
-                    }
-                },
-                {
-                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/95b2f7c24cdae2dfca82606eb678ebdf/res/values-iw/values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "102",
-                        "endOffsets": "153"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1888",
-                        "endColumns": "102",
-                        "endOffsets": "1986"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
             "map": [
                 {
@@ -844,6 +812,38 @@
                         "startOffsets": "105,219,328,439,529,634,759,841,923,1007,1120,1228,1327,1438,1540,1657,1823,1924",
                         "endColumns": "113,108,110,89,104,124,81,81,83,112,107,98,110,101,116,165,100,81",
                         "endOffsets": "214,323,434,524,629,754,836,918,1002,1115,1223,1322,1433,1535,1652,1818,1919,2001"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/032a201741818bfad7a12c9bf011cf7c/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,308,416,500,600,714,792,870,951,1053,1157,1255,1358,1459,1559,1711,1807",
+                        "endColumns": "103,98,107,83,99,113,77,77,80,101,103,97,102,100,99,151,95,80",
+                        "endOffsets": "204,303,411,495,595,709,787,865,946,1048,1152,1250,1353,1454,1554,1706,1802,1883"
+                    }
+                },
+                {
+                    "source": "/Users/jeronimo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/95b2f7c24cdae2dfca82606eb678ebdf/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "102",
+                        "endOffsets": "1986"
                     }
                 }
             ]
