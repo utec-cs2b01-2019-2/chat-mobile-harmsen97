@@ -1,4 +1,4 @@
-#Thu Nov 21 16:52:49 PET 2019
+#Mon Nov 25 16:33:14 PET 2019
 base.0=/Users/jeronimo/Desktop/chat-mobile-harmsen97/ChatMobile/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,6 @@
 package cs2b01.utec.chat_mobile;
 
 
-
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
